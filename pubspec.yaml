@@ -4,8 +4,8 @@ version: 0.0.30
 homepage: https://github.com/fellipeptc/flutter_internet_signal
 
 environment:
-  sdk: '>=3.0.2 <4.0.0'
-  flutter: ">=3.3.0"
+  sdk: ">=3.8.0"
+  flutter: ">3.32.0"
 
 dependencies:
   flutter:
